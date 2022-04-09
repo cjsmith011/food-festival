@@ -1,0 +1,22 @@
+{
+    "name": "Food Event",
+    "short_name": "Foodies",
+    "description": "An app that allows you to view upcoming food events.",
+  
+    "icons": [
+        {
+            "src": "/img/icons/icons-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+          },
+          {
+            "src": "/img/icons/icons-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+          }
+          ],
+    "theme_color": "#ffffff",
+    "background_color": "#01579b",
+    "start_url": "/",
+    "display": "standalone"
+  }
